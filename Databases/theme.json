@@ -4,29 +4,29 @@
     "elements" : [ 
         {
             "tag" : "Database - PostgreSQL",
-            "stroke" : "##cc2264",
-            "color" : "##cc2264",
+            "stroke" : "#cc2264",
+            "color" : "#cc2264",
             "shape" : "Cylinder",
             "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS_PostgreSQL_instance_light-bg@4x.png"
         },
         {
             "tag" : "Database - Oracle",
-            "stroke" : "##cc2264",
-            "color" : "##cc2264",
+            "stroke" : "#cc2264",
+            "color" : "#cc2264",
             "shape" : "Cylinder",
             "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS_Oracle_instance_light-bg@4x.png"
         },
         {
             "tag" : "Database - MySQL",
-            "stroke" : "##cc2264",
-            "color" : "##cc2264",
+            "stroke" : "#cc2264",
+            "color" : "#cc2264",
             "shape" : "Cylinder",
             "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS_MySQL_instance_light-bg@4x.png"
         },
         {
             "tag" : "Database - SQLServer",
-            "stroke" : "##cc2264",
-            "color" : "##cc2264",
+            "stroke" : "#cc2264",
+            "color" : "#cc2264",
             "shape" : "Cylinder",
             "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS_SQL-Server_instance_light-bg@4x.png"
         }
