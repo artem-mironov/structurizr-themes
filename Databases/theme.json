@@ -1,0 +1,34 @@
+{
+    "name" : "Database",
+    "description" : "Icons for various databases",
+    "elements" : [ 
+        {
+            "tag" : "Database - PostgreSQL",
+            "stroke" : "#cce7e8",
+            "color" : "#cce7e8",
+            "shape" : "Cylinder",
+            "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS_PostgreSQL_instance_light-bg@4x.png"
+        },
+        {
+            "tag" : "Database - Oracle",
+            "stroke" : "#cce7e8",
+            "color" : "#cce7e8",
+            "shape" : "Cylinder",
+            "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS_Oracle_instance_light-bg@4x.png"
+        },
+        {
+            "tag" : "Database - MySQL",
+            "stroke" : "#cce7e8",
+            "color" : "#cce7e8",
+            "shape" : "Cylinder",
+            "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS_MySQL_instance_light-bg@4x.png"
+        },
+        {
+            "tag" : "Database - SQLServer",
+            "stroke" : "#cce7e8",
+            "color" : "#cce7e8",
+            "shape" : "Cylinder",
+            "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-RDS_SQL-Server_instance_light-bg@4x.png"
+        }
+    ]
+}
